@@ -1,6 +1,4 @@
-
-
-# 👋 Hey, I’m Ceylin! <br/><a href="www.linkedin.com/in/ceylin-guclu">SOC Analyst</a> 
+# 👋 Hey, I’m Ceylin! <br/> [SOC Analyst](https://www.linkedin.com/in/ceylin-guclu)</a>
 
 ## 🌷 A little bit about me
 I’m someone who loves to grow, explore, and keep learning.  
