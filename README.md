@@ -21,5 +21,5 @@ I’m someone who loves to grow, explore, and keep learning.
 
 ## 💌 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceylin-guclu)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ceylinguclu)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]([https://github.com/ceylingl](https://github.com/ceylingl))
 
