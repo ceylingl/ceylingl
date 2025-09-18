@@ -14,8 +14,8 @@ I’m someone who loves to grow, explore, and keep learning.
 - ✈️ Dreamer of travels, new cultures, and stories.  
 
 ## <h2> 👩‍💻 CyberSecurity Projects:</h2>
-<!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
+- <b>SIEM Project: Failed Login Analysis with Splunk</b>
+  - [Failed Login Detection with Splunk](https://github.com/ceylingl/Failed-Login-Detection-with-Splunk)
 
 ## 💌 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceylin-guclu)  
